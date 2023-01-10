@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1,minimum-scale=1,user-scalable=no">
+  <title>凌宇-LinYu的博客</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="凌宇-LinYu的博客">
+  <meta property="og:url" content="http://www.linyu-dwz.tk/">
+  <meta property="og:site_name" content="凌宇-LinYu的博客">
+  <meta property="og:description" content="linyu-dwz.tk">
+  <meta property="og:image" content="img/author.webp">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="css/APlayer.min.css">
+  <link href="css/metro-all.css?ver=@@b-version" rel="stylesheet">
+  <link href="css/start.css" rel="stylesheet">
+  <title>凌宇-LinYu的博客</title>
+</head>
+<body class="bg-dark fg-white h-vh-100 m4-cloak">
+  <div class="container-fluid start-screen h-100 main" style="backdrop-filter: blur(10px);width:100%;overflow-x:hidden">
+    <h1 class="start-screen-title">凌宇-LinYu的博客</h1>
+    <div class="tiles-area clear">
+      <div class="tiles-grid tiles-group size-2 fg-white" data-group-title="概览">
+        <a title="凌宇-LinYu的博客主站点" href="https://www.linyu-dwz.tk/" data-role="tile" class=" fg-orange"
+          data-cover="img/blog1.webp" data-size="wide">
+          <span class="branding-bar">我的博客</span>
+        </a>
+        <a title="Github镜像站" target="_blank" href="https://ww.linyu-dwz.tk/" data-role="tile" data-size="small"
+          style="background-color: #2a475e">
+          <span class="fa icon-mirror icon"></span>
+        </a>
+        <a title="Github首页" target="_blank" href="https://ww.linyu-dwz.tk/li461/li461" data-role="tile" data-size="small"
+          class="bg-indigo">
+          <span class="fa icon-github icon"></span>
+        </a>
+        <a title="凌宇-LinYu的B站" target="_blank" href="https://space.bilibili.com/522035469" data-role="tile"
+          data-size="small" style="background-color: #ff5c7c">
+          <span class="fa icon-bilibili icon"></span>
+        </a>
+        <a title="网易云首页" target="_blank" href="https://music.163.com/#/user/home?id=3463296705" data-role="tile"
+          data-size="small" style="background-color: red">
+          <span class="fa icon-netease icon"></span>
+        </a>
+        <div id="weather-v2-plugin-standard" data-role="tile" data-size="wide"><iframe src="https://player.bilibili.com/player.html?aid=468793234&bvid=BV1w5411d7Zc&cid=712956042&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div>
+        <div data-role="tile" style="height:70px" data-order="random" data-size="wide" data-lrc-type="1"
+          class="aplayer bg-black" data-id="5183531430" data-server="netease" data-type="playlist"
+          data-list-folded="true" data-volume="1.0"></div>
+        <script>
+          WIDGET = {
+            CONFIG: {
+
+              "layout": 1,
+              "width": "310",
+              "height": "150",
+              "background": 1,
+              "dataColor": "FFFFFF",
+              "borderRadius": 1,
+              "key": "FtmcNnOSjp"
+            }
+          }
+        </script>
+        <script defer src="https://apip.weatherdt.com/standard/static/js/weather-standard-common.js?v=2.0"></script>
+      </div>
+      <div class="tiles-grid tiles-group size-2 fg-white" data-group-title="关于我">
+        <div data-role="tile" data-cover="img/author.webp" class="fg-violet">
+          <span class="branding-bar">凌宇-LinYu</span>
+        </div>
+        <div data-role="tile" class=" fg-white"
+          data-cover="">
+          <ul>
+            <li style="list-style-type:none;font-size: 0.8rem;"> <b>性别：</b>男</li>
+            <li style="list-style-type:none;font-size: 0.8rem;"> <b>年龄：</b>14</li>
+            <li style="list-style-type:none;font-size: 0.8rem;"> <b>住址：</b>新疆 巴音郭楞蒙古自治州</li>
+            <li style="list-style-type:none;font-size: 0.8rem;"> <b>专业：</b>暂无</li>
+            <li style="list-style-type:none;font-size: 0.8rem;"> <b>爱好：</b>软件工程</li>
+          </ul>
+        <div>                                   </div>
+          <span class="branding-bar">   个人信息</span>
+        </div>
+        <div data-role="tile" class="  fg-white" style="background-color: #2a475e" data-size="wide">
+          <ul>
+            <span style="font-size: 0.8rem">生日2月02🎂，<br>
+              一个献给二进制，一个献给Furry。⚛️<br>
+              略懂技术，涉猎广泛。<br>
+              梦想是做一个了不起的人👻<br>
+            </span>
+            <span class="branding-bar">自我介绍</span>
+          </ul>
+        </div>
+        <div data-role="tile" class="bg-teal fg-white" data-size="wide">
+          <ul>
+            <li style="list-style-type:none;font-size: 0.7rem;margin-top:10px">
+              <b>🎓&nbsp&nbsp&nbsp初中&nbsp&nbsp&nbsp2020-2023</b></li>
+            <li style="list-style-type:none;font-size: 0.8rem;padding-bottom:10px;"> 石油一中 </li>
+          </ul>
+          <ul>
+            <li style="list-style-type:none;font-size: 0.7rem;margin-top:10px">
+              <b>💻&nbsp&nbsp&nbsp职业&nbsp&nbsp&nbsp2019-now</b></li>
+            <li style="list-style-type:none;font-size: 0.8rem;padding-bottom:10px;"> 学生</li>
+          </ul>
+          <span class="branding-bar">个人简历</span>
+        </div>
+      </div>
+<div class="tiles-grid tiles-group size-1 fg-white" data-group-title="掌握技能">
+<a target="_blank" href="https://unity.com/" data-role="tile" data-size="small" class="bg-black"  >
+<img src="img/unity.jpg" class="icon">
+        </a>
+<a target="_blank" href="https://www.adobe.com/products/photoshop.html" data-role="tile" data-size="small" style="background-color: #001e36">
+            <img src="img/PS.svg" class="icon">
+        </a>
+<a target="_blank" href="https://www.adobe.com/products/premiere.html"  data-role="tile" data-size="small" style="background-color: #00005b">
+            <img src="img/PR.svg" class="icon">
+        </a>
+<a target="_blank" data-role="tile" href="https://hexo.io/" data-size="small" style="background-color: #0e83cd">
+            <img src="img/hexo.png" class="icon">
+        </a>
+<a  data-role="tile" data-size="small" href="https://wordpress.org/" style="background-color: #016087">
+            <img src="img/wp.png" class="icon">
+        </a>
+<a target="_blank" data-role="tile" href="https://jquery.com/" data-size="small" style="background-color:#1b75bb" >
+            <img src="img/jq.png" class="icon">
+        </a> 
+<a target="_blank" data-role="tile" data-size="small" href="https://www.bootcss.com/" style="background-color: #563d7c" >
+            <img src="img/bootstrap.png" class="icon">
+        </a> 
+       <a target="_blank" data-role="tile" data-size="small" href="https://www.blender.org/" style="background-color: #e87d0d" >
+            <img src="img/blender.png" class="icon">
+        </a> 
+        <a target="_blank" data-role="tile" data-size="small" href="https://www.mockplus.com/" style="background-color: #f5f5f5">
+            <img src="img/mockplus.png" class="icon">
+        </a>
+        
+    </div>
+      <div class="tiles-grid tiles-group size-2 fg-white" data-group-title="凌宇-LinYuの友人帐">
+        <a title="KPGEY Studio工作室" target="_blank" href="http://kpgeystudio.site/" data-role="tile" data-size="small"
+          data-cover="img/logo3.jpg">
+        </a>
+        <a title="Y&V主页" target="_blank" href="http://endoftime.xyz/" data-role="tile" data-size="small"
+          data-cover="img/logo1.png">
+        </a>
+       </div>
+        <div class="tiles-grid tiles-group size-2 fg-white" data-group-title="网站信息">
+        <a href="https://stats.uptimerobot.com/Oz1v2INjNN" data-role="tile" class="bg-indigo fg-white">
+          <span class="fa icon-status icon"></span>
+          <span class="branding-bar">网站监控</span>
+          <span class="badge-bottom">1</span>
+        </a>
+
+        <a data-role="tile" class="bg-pink fg-white">
+          <span class="fa icon-visit icon"></span>
+          <span class="branding-bar">访客量</span>
+          <span class="badge-bottom" id="busuanzi_value_site_pv"></span>
+        </a>
+
+        <a href="https://jq.qq.com/?_wv=1027&k=OEoYWsVv" data-role="tile" class="bg-black fg-white">
+          <span class="fa icon-QQ icon"></span>
+          <span class="branding-bar">QQ群</span>
+
+        </a>
+        <a href="Error page/404.html" data-role="tile" class="bg-red fg-white">
+          <span class="fa icon-tool icon"></span>
+          <span class="branding-bar">工具箱</span>
+
+        </a>
+        <a href="another page/countdown-page.html" data-role="tile" class="bg-red fg-white">
+          <img src="img/firework.png" class="icon">
+          <span class="branding-bar">新年倒计时</span>
+        </a>
+        
+      </div>
+    </div>
+    <div id="footer">
+      <br>
+      <p>
+        <a target="_blank" style="   color: #ffffff;" href="https://metroui.org.ua/index.html "><img
+            src="https://img.shields.io/badge/Frame-Metro--UI-blue?style=plastic&logo=shanghaimetro"
+            title="本站框架采用Metro4"></a>
+        &nbsp;<a target="_blank" style="   color: #ffffff;" href="https://metroui.org.ua/index.html "><img
+&nbsp;<a target="_blank" style="   color: #ffffff;"
+          href="https://vercel.com/ "><img
+            src="https://img.shields.io/badge/Hosted-Vervel-brightgreen?style=plastic&logo=Vercel"
+            title="本站部署于Vercel"></a>
+        &nbsp;<a target="_blank" style="   color: #ffffff;" href="https://github.com/Akilarlxh/blog"><img
+            src="https://img.shields.io/badge/Source-Github-d021d6?style=plastic&logo=GitHub" title="本站主页项目源代码"></a>
+        &nbsp;<a target="_blank" style="   color: #ffffff;"
+          href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
+            src="https://img.shields.io/badge/Copyright-BY--NC--SA%204.0-d42328?style=plastic&logo=Claris"
+            title="本站点采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议进行许可"></a>
+      </p>
+
+      <div class="runtime">
+        <p id="running-time"></p>
+      </div>
+    </div>
+  </div>
+  <script src="js/APlayer.min.js"></script>
+  <script defer src="js/busuanzi.js"></script>
+  <script src="js/metro.js"></script>
+  <script src="js/start.js"></script>
+  <script src="js/Meting.min.js"></script>
+  <script>
+    const ap = new APlayer({
+      container: document.getElementById('aplayer'),
+    });
+  </script>
+ 
+</html>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      FROM php:7.4-apache
+
+# Install extensions
+RUN apt-get update && apt-get install -y \
+    libfreetype6-dev \
+    libjpeg62-turbo-dev \
+    libpng-dev \
+    libpq-dev \
+    && docker-php-ext-install -j$(nproc) iconv \
+    && docker-php-ext-configure gd --with-freetype=/usr/include/ --with-jpeg=/usr/include/ \
+    && docker-php-ext-configure pgsql -with-pgsql=/usr/local/pgsql \
+    && docker-php-ext-install -j$(nproc) gd pdo pdo_mysql pdo_pgsql pgsql
+
+# Prepare files and folders
+
+RUN mkdir -p /speedtest/
+
+# Copy sources
+
+COPY backend/ /speedtest/backend
+
+COPY results/*.php /speedtest/results/
+COPY results/*.ttf /speedtest/results/
+
+COPY *.js /speedtest/
+COPY favicon.ico /speedtest/
+
+COPY docker/servers.json /servers.json
+
+COPY docker/*.php /speedtest/
+COPY docker/entrypoint.sh /
+
+# Prepare environment variabiles defaults
+
+ENV TITLE=LibreSpeed
+ENV MODE=standalone
+ENV PASSWORD=password
+ENV TELEMETRY=false
+ENV ENABLE_ID_OBFUSCATION=false
+ENV REDACT_IP_ADDRESSES=false
+ENV WEBPORT=80
+
+# Final touches
+
+EXPOSE 80
+CMD ["bash", "/entrypoint.sh"]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
